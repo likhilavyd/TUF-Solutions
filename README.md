@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **54** | 54 | 0 | 0 | `2026-11-09` |
+| **55** | 55 | 0 | 0 | `2026-11-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (54)
+### DSA (55)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -51,25 +51,26 @@
 | 0033 | [Pattern 5](./DSA/Beginner-Problems/pattern-5) | [CPP](./DSA/Beginner-Problems/pattern-5/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-09` |
 | 0034 | [Pattern 6](./DSA/Beginner-Problems/pattern-6) | [CPP](./DSA/Beginner-Problems/pattern-6/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-09` |
 | 0035 | [Pattern 7](./DSA/Beginner-Problems/pattern-7) | [CPP](./DSA/Beginner-Problems/pattern-7/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-09` |
-| 0036 | [Positive, Negative, or Zero](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0037 | [Print 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0038 | [Print Array](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0039 | [Print Array in Reverse](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array-in-reverse) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array-in-reverse/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0040 | [Print Multiplication Table - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-multiplication-table-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-multiplication-table-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0041 | [Rectangle Measurements](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0042 | [Reverse a Number - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-a-number-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-a-number-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0043 | [Reverse an Array - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-beginner) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-beginner/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0044 | [Reverse an Array - III](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-iii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-iii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0045 | [Reverse Number - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-number-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-number-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0046 | [Search in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/search-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/search-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0047 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0048 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0049 | [Sum and Average of an Array](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0050 | [Sum of Every Column in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0051 | [Sum of Every Row in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0052 | [Sum Till N - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0053 | [Sum Till N - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0054 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0036 | [Pattern 8](./DSA/Beginner-Problems/pattern-8) | [CPP](./DSA/Beginner-Problems/pattern-8/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-09` |
+| 0037 | [Positive, Negative, or Zero](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0038 | [Print 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0039 | [Print Array](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0040 | [Print Array in Reverse](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array-in-reverse) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-array-in-reverse/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0041 | [Print Multiplication Table - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-multiplication-table-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/print-multiplication-table-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0042 | [Rectangle Measurements](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0043 | [Reverse a Number - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-a-number-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-a-number-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0044 | [Reverse an Array - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-beginner) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-beginner/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0045 | [Reverse an Array - III](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-iii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-an-array-iii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0046 | [Reverse Number - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-number-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/reverse-number-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0047 | [Search in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/search-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/search-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0048 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0049 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0050 | [Sum and Average of an Array](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0051 | [Sum of Every Column in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0052 | [Sum of Every Row in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0053 | [Sum Till N - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0054 | [Sum Till N - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0055 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 
 ---
 
