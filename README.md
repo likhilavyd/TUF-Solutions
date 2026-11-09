@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 23 | 0 | 0 | `2026-11-09` |
+| **24** | 24 | 0 | 0 | `2026-11-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (23)
+### DSA (24)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -38,7 +38,8 @@
 | 0020 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0021 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0022 | [Sum Till N - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0023 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0023 | [Sum Till N - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0024 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 
 ---
 
