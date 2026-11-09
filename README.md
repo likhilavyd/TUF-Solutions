@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **36** | 36 | 0 | 0 | `2026-11-09` |
+| **37** | 37 | 0 | 0 | `2026-11-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (36)
+### DSA (37)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -49,9 +49,10 @@
 | 0031 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0032 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0033 | [Sum and Average of an Array](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0034 | [Sum Till N - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0035 | [Sum Till N - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0036 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0034 | [Sum of Every Row in 2D Matrix](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0035 | [Sum Till N - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0036 | [Sum Till N - II](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0037 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 
 ---
 
