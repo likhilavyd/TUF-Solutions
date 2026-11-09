@@ -6,29 +6,30 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 13 | 0 | 0 | `2026-11-09` |
+| **14** | 14 | 0 | 0 | `2026-11-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Discounted Price](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/discounted-price) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/discounted-price/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0002 | [Even Odd - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/even-odd-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/even-odd-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0003 | [Single Input I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-1) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-1/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0004 | [Multiple Inputs](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0005 | [Input Validation](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0006 | [Largest of Three Numbers](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-three-numbers) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-three-numbers/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0007 | [Largest of Two Numbers](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-two-numbers) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-two-numbers/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0008 | [Logical Operators](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0009 | [Positive, Negative, or Zero](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0010 | [Rectangle Measurements](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0011 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0012 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0013 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0002 | [Divisible by 3 and 5](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/divisible-by-3-and-5) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/divisible-by-3-and-5/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0003 | [Even Odd - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/even-odd-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/even-odd-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0004 | [Single Input I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-1) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-1/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0005 | [Multiple Inputs](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0006 | [Input Validation](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0007 | [Largest of Three Numbers](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-three-numbers) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-three-numbers/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0008 | [Largest of Two Numbers](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-two-numbers) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/largest-of-two-numbers/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0009 | [Logical Operators](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0010 | [Positive, Negative, or Zero](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/positive-negative-or-zero/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0011 | [Rectangle Measurements](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/rectangle-measurements/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0012 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0013 | [Simple Interest Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-interest-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0014 | [Swap Two Numbers - I](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 
 ---
 
