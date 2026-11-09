@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 4 | 0 | 0 | `2026-11-09` |
+| **5** | 5 | 0 | 0 | `2026-11-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,6 +20,7 @@
 | 0002 | [Multiple Inputs](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-2/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0003 | [Input Validation](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/input-4/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0004 | [Logical Operators](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/logical-operator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0005 | [Simple Calculator](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator) | [CPP](./DSA/Programming%2C-Flowcharts-and-Logical-Thinking/simple-calculator/solution.cpp) | 🟢 Easy | `Programming,-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 
 ---
 
