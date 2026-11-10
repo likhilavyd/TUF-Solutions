@@ -43,7 +43,7 @@
 | 0025 | [Fibonacci Number - III](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/fibonacci-number-iii) | [CPP](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/fibonacci-number-iii/solution.cpp) | 🟢 Easy | `Programming%252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0026 | [Grade Calculator](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/grade-calculator) | [CPP](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/grade-calculator/solution.cpp) | 🟢 Easy | `Programming%252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0027 | [Single Input I](./DSA/General/input-1) | [CPP](./DSA/General/input-1/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
-| 0028 | [Multiple Inputs](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/input-2) | [CPP](./DSA/Programming%25252C-Flowcharts-and-Logical-Thinking/input-2/solution.cpp) | 🟢 Easy | `Programming%252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0028 | [Multiple Inputs](./DSA/General/input-2) | [CPP](./DSA/General/input-2/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
 | 0029 | [Input Validation](./DSA/General/input-4) | [CPP](./DSA/General/input-4/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
 | 0030 | [Keep Only Even Numbers](./DSA/Dynamic-Arrays/keep-only-even-numbers) | [CPP](./DSA/Dynamic-Arrays/keep-only-even-numbers/solution.cpp) | 🟢 Easy | `Dynamic-Arrays` | `2026-11-10` |
 | 0031 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
