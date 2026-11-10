@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **77** | 74 | 3 | 0 | `2026-11-10` |
+| **78** | 75 | 3 | 0 | `2026-11-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (77)
+### DSA (78)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -93,6 +93,7 @@
 | 0075 | [Sum Till N - I](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming%2C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0076 | [Sum Till N - II](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming%2C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0077 | [Swap Two Numbers - I](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming%2C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0078 | [Transpose of Matrix](./DSA/Arrays-in-C%2B%2B/transpose-of-matrix) | [CPP](./DSA/Arrays-in-C%2B%2B/transpose-of-matrix/solution.cpp) | 🟢 Easy | `Arrays-in-C++` | `2026-11-10` |
 
 ---
 
