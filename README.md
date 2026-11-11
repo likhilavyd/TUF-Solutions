@@ -39,7 +39,8 @@
 | 0021 | [950. Count number of odd digits in a number](./DSA/General/count-number-of-odd-digits-in-a-number) | [CPP](./DSA/General/count-number-of-odd-digits-in-a-number/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
 | 0022 | [Count Occurrences of a Target - II](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/count-occurrences-of-a-target-ii) | [CPP](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/count-occurrences-of-a-target-ii/solution.cpp) | 🟢 Easy | `Programming%25252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0023 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-10` |
-| 0024 | [Count of Prime Numbers till N](./DSA/Beginner-Problems/count-of-prime-numbers-till-n) | [CPP](./DSA/Beginner-Problems/count-of-prime-numbers-till-n/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-10` |
+| 0024 | [790. Count of Prime Numbers till N
+POTD](./DSA/General/count-of-prime-numbers-till-n) | [CPP](./DSA/General/count-of-prime-numbers-till-n/solution.cpp) | 🟢 Easy | `General` | `2026-11-11` |
 | 0025 | [Count Up](./DSA/General/count-up) | [CPP](./DSA/General/count-up/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
 | 0026 | [Day of the Week](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/day-of-the-week) | [CPP](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/day-of-the-week/solution.cpp) | 🟢 Easy | `Programming%25252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0027 | [Digit Counter](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/digit-counter) | [CPP](./DSA/Programming%2525252C-Flowcharts-and-Logical-Thinking/digit-counter/solution.cpp) | 🟢 Easy | `Programming%25252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
