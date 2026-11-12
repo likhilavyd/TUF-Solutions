@@ -45,7 +45,7 @@
 | 0027 | [790. Count of Prime Numbers till N
 POTD](./DSA/General/count-of-prime-numbers-till-n) | [CPP](./DSA/General/count-of-prime-numbers-till-n/solution.cpp) | 🟢 Easy | `General` | `2026-11-11` |
 | 0028 | [Count Up](./DSA/General/count-up) | [CPP](./DSA/General/count-up/solution.cpp) | 🟢 Easy | `General` | `2026-11-10` |
-| 0029 | [Count Up II](./DSA/General/count-up-ii) | [CPP](./DSA/General/count-up-ii/solution.cpp) | 🟢 Easy | `General` | `2026-11-11` |
+| 0029 | [Count Up II](./DSA/Strings-and-Character-Handling/count-up-ii) | [CPP](./DSA/Strings-and-Character-Handling/count-up-ii/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
 | 0030 | [Day of the Week](./DSA/Programming%25252525252C-Flowcharts-and-Logical-Thinking/day-of-the-week) | [CPP](./DSA/Programming%25252525252C-Flowcharts-and-Logical-Thinking/day-of-the-week/solution.cpp) | 🟢 Easy | `Programming%252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0031 | [Digit Character to Integer](./DSA/Strings-and-Character-Handling/digit-character-to-integer) | [CPP](./DSA/Strings-and-Character-Handling/digit-character-to-integer/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
 | 0032 | [Digit Counter](./DSA/Programming%25252525252C-Flowcharts-and-Logical-Thinking/digit-counter) | [CPP](./DSA/Programming%25252525252C-Flowcharts-and-Logical-Thinking/digit-counter/solution.cpp) | 🟢 Easy | `Programming%252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
