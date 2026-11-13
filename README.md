@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **125** | 113 | 12 | 0 | `2026-11-13` |
+| **126** | 114 | 12 | 0 | `2026-11-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (125)
+### DSA (126)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -133,15 +133,16 @@ POTD](./DSA/General/count-of-prime-numbers-till-n) | [CPP](./DSA/General/count-o
 | 0114 | [Switch Case II](./DSA/Strings/string-switch) | [CPP](./DSA/Strings/string-switch/solution.cpp) | 🟢 Easy | `Strings` | `2026-11-10` |
 | 0115 | [Sum and Average of an Array](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-and-average-of-an-array/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
 | 0116 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | 🟢 Easy | `Arrays` | `2026-11-10` |
-| 0117 | [Sum of Every Column in 2D Matrix](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0118 | [Sum of Every Row in 2D Matrix](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0119 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [CPP](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-13` |
-| 0120 | [Sum Till N - I](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0121 | [Sum Till N - II](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0122 | [Sum Till N - III](./DSA/Strings-and-Character-Handling/sum-till-n-iii) | [CPP](./DSA/Strings-and-Character-Handling/sum-till-n-iii/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
-| 0123 | [Swap Two Numbers - I](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
-| 0124 | [Toggle Character Case](./DSA/Strings-and-Character-Handling/toggle-character-case) | [CPP](./DSA/Strings-and-Character-Handling/toggle-character-case/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
-| 0125 | [Transpose of Matrix](./DSA/Arrays-in-C%25252525252B%25252525252B/transpose-of-matrix) | [CPP](./DSA/Arrays-in-C%25252525252B%25252525252B/transpose-of-matrix/solution.cpp) | 🟢 Easy | `Arrays-in-C%252525252B%252525252B` | `2026-11-10` |
+| 0117 | [Sum of Array Elements II](./DSA/Beginner-Problems/sum-of-array-elements-ii) | [CPP](./DSA/Beginner-Problems/sum-of-array-elements-ii/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-13` |
+| 0118 | [Sum of Every Column in 2D Matrix](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-column-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0119 | [Sum of Every Row in 2D Matrix](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-of-every-row-in-2d-matrix/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0120 | [Sum of First N Numbers](./DSA/Beginner-Problems/sum-of-first-n-numbers) | [CPP](./DSA/Beginner-Problems/sum-of-first-n-numbers/solution.cpp) | 🟢 Easy | `Beginner-Problems` | `2026-11-13` |
+| 0121 | [Sum Till N - I](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-i) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-i/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0122 | [Sum Till N - II](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/sum-till-n-ii/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0123 | [Sum Till N - III](./DSA/Strings-and-Character-Handling/sum-till-n-iii) | [CPP](./DSA/Strings-and-Character-Handling/sum-till-n-iii/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
+| 0124 | [Swap Two Numbers - I](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i) | [CPP](./DSA/Programming%2525252525252C-Flowcharts-and-Logical-Thinking/swap-two-numbers-i/solution.cpp) | 🟢 Easy | `Programming%25252525252C-Flowcharts-and-Logical-Thinking` | `2026-11-09` |
+| 0125 | [Toggle Character Case](./DSA/Strings-and-Character-Handling/toggle-character-case) | [CPP](./DSA/Strings-and-Character-Handling/toggle-character-case/solution.cpp) | 🟢 Easy | `Strings-and-Character-Handling` | `2026-11-12` |
+| 0126 | [Transpose of Matrix](./DSA/Arrays-in-C%25252525252B%25252525252B/transpose-of-matrix) | [CPP](./DSA/Arrays-in-C%25252525252B%25252525252B/transpose-of-matrix/solution.cpp) | 🟢 Easy | `Arrays-in-C%252525252B%252525252B` | `2026-11-10` |
 
 ---
 
