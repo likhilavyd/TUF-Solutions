@@ -1,4 +1,4 @@
-# [Next Traffic Light](https://takeuforward.org/practice/dsa/next-traffic-light?category=practice-enums&source=cpp)
+# [Next Traffic Light](https://takeuforward.org/practice/dsa/next-traffic-light?source=cpp&category=practice-enums)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 

@@ -18,6 +18,7 @@ public:
             return TrafficLight::Yellow;
         }
  
+        // The remaining valid state is Yellow.
         return TrafficLight::Red;
     }
 };
